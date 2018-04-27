@@ -1,0 +1,127 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.app{
+    padding: 0px;
+    height: 100vh;
+    display: grid;
+    grid-template-rows: 25px 1fr;
+    grid-template-columns: 1fr;
+}
+
+.menu{
+    background-color: #CECECE;
+}
+
+.wrapper{
+    position: relative;
+    display: grid;
+    grid-template-columns: 1fr;
+    overflow: auto;
+}
+
+.editor{
+    position: relative;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+    overflow: hidden;
+}
+
+.doc{
+
+    padding-top: 20px;
+    padding-bottom: 20px;
+    position: absolute;
+    width:100%;
+    height:100%;
+    /* overflow-y: auto; */
+    /* overflow-y: auto; */
+    overflow-wrap: normal;
+    outline: none;
+}
+.doc:focus{
+    outline: none;
+}
+
+.line{
+    min-height: 18px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.active{
+    background-color: rgb(188, 206, 209);
+}
+
+/* .sense{
+    position: absolute;
+    display: inline-block;
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    overflow-y: scroll;
+} */
+
+.hide{
+    display: none;
+}
+
+.sense {
+    position: absolute;
+    width: 350px;
+    /* height: 100px; */
+    border: 1px solid black;
+    background-color: black;
+    color: #ffffff;
+    top: 0px;
+    left: 0px;
+    z-index: 10;
+    box-shadow: 3px 3px 10px #5b636d;
+    user-select: none;
+}
+
+.suggestions{
+    max-height: 144px;
+    overflow-y: auto;
+}
+
+.selected{
+    background-color: #5b636d;
+}
+
+.defs{
+    border-top-color: #cecece;
+    border-top-style: solid;
+    border-top-width: 1px;
+    background-color: #3f3f3f;
+    font-size: 13px;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: #c3d6d6;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #334670; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #405c9e;
+}
