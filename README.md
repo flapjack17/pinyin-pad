@@ -1,4 +1,4 @@
-###Pinyin-Pad
+### Pinyin-Pad
 
 I am taking a conversational Mandarin class in which we type our homework in pinyin. Microsoft's keyboards support character output with toneless pinyin input, and does not have an easy way to add tones to characters.
 
@@ -17,7 +17,7 @@ I then came across another, easier way using the Range.getBoundingClientRect met
 After creating a dictionary using the vocab from our book and doing some other work to get the current word at the cerets postion, I was able to display a list of possible words and replace the text with the seleted result. I added all the vocab from the book, but should of have only focused on the chapters we had covered since it took a long time to get all the vocab in. I was also some what confused on the spacing of words, I have seen some words that are created from multiple words without spacing, with spacing based on syllables, and seperated by syllables with a dash. The book I was using would have that same word sometimes with the dash, or together, my techer said th dash was to just help break out the syllables for pronunciation. So I will need to go back and update the dictionary to fix this.
 
 
-###Things i would still like to do.
+### Things i would still like to do.
 - Try to better predict words being typed.
 - Better sorting of the predicted results.
 - Add a feature to allow the user to search the dictionaries english definitions and return a list of words for the user to choose from.
