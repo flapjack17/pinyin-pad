@@ -8,7 +8,7 @@ doc.focus();
 // 'lu' words with umlaut
 // need to add support for umlaut characters
 function keyDownHandler(event) {
-    console.log(event);[]
+    console.log(event);
     const { key, ctrlKey, altKey, shiftKey } = event;
     if (key === 'Tab') {
         event.preventDefault();
@@ -25,7 +25,6 @@ function keyDownHandler(event) {
     else if (key === 'Backspace') {
         // event.preventDefault();
         const prevent = preventDeleteLastLine();
-        console.log(doc.children.toString())
         if (prevent) event.preventDefault();
     }
     else if (key === 'Enter') {
@@ -63,7 +62,7 @@ function keyDownHandler(event) {
     else if (key === 'ArrowRight') {
         if (!sense.visible) return;
         const char = pad.getPreviousCharacter(+1);
-        if (char === ' ') {
+        if (char.charCodeAt(0) === 160) {
             sense.clearSuggestions();
             sense.hide();
         }
@@ -74,10 +73,14 @@ function keyDownHandler(event) {
             sense.hide();
         }
     }
+    else if(key === ' ' && ctrlKey){
+        console.log('test');
+        predictText()
+    }
 }
 
 function inputHandler(event) {
-    // console.log(event);
+    console.log(event);
     const { data, inputType } = event;
     const ceret = pad.getCeretPosition();
     if (inputType === 'insertText') {
@@ -116,19 +119,34 @@ function actionInputHandler(e) {
 
 
 function predictText() {
-    const currentWord = pad.getCurrentWord();
+    let currentWord = pad.getCurrentWord();
     if (!!!currentWord) {
         sense.hide();
         return;
     }
+    currentWord = currentWord.trim();
     const suggestions = zidian.startsWith(currentWord);
     if (suggestions.length < 1) {
         sense.clearSuggestions();
         sense.hide();
         return;
     }
-    const { x, y } = calculateCeretOffset()
-    sense.setSuggestions(suggestions);
+    const wordSet = [];
+    const { x, y } = calculateCeretOffset();
+    if (zidian.containsTones(currentWord)) {
+        let tonedWords = zidian.startsWith2(currentWord);
+        const list = tonedWords.sort(zidian.sortLengthFirst);
+        list.forEach(element => {
+            const test = wordSet.find(x => x.word === element.word);
+            if (!!!test) wordSet.push(element);
+        });
+    }
+    const sugs = suggestions.sort(zidian.sortLengthFirst);
+    sugs.forEach(x => {
+        const test = wordSet.find(w => w.word === x.word);
+        if (!!!test) wordSet.push(x);
+    });
+    sense.setSuggestions(wordSet);
     sense.show(x, y);
 }
 

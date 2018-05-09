@@ -29,7 +29,6 @@ class Sense {
         let left = x + this.offsetX;
         let top = y + this.offsetY;
         if (left + 350 > window.innerWidth) left -= 350;
-        console.log(top + rect.height, window.innerHeight)
         if (top + rect.height >= conRec.height) top -= rect.height + 18; // need to change to adapt to line height
         this.element.style.left = left + 'px';
         this.element.style.top = top + 'px';
@@ -44,7 +43,6 @@ class Sense {
         this.visible = false;
     }
     setSuggestions(words) {
-        console.log(words)
         this.suggestions = words;
         const container = document.createElement('div');
         container.classList.add('suggestions');

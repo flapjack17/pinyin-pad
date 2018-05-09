@@ -268,7 +268,7 @@ const zidian = (function () {
             ]
         },
         {
-            word: 'bàn-gōng',
+            word: 'bàn gōng',
             definitions: [
                 {
                     grammer: 'v-o',
@@ -313,7 +313,7 @@ const zidian = (function () {
             ]
         },
         {
-            word: 'bāng-máng',
+            word: 'bāng máng',
             definitions: [
                 {
                     grammer: 'v-o',
@@ -558,7 +558,7 @@ const zidian = (function () {
             ]
         },
         {
-            word: 'bì-yè',
+            word: 'bì yè',
             definitions: [
                 {
                     grammer: 'v-o',
@@ -661,7 +661,7 @@ const zidian = (function () {
             ]
         },
         {
-            word: 'bú-cuò',
+            word: 'bú cuò',
             definitions: [
                 {
                     grammer: 'ie',
@@ -719,7 +719,7 @@ const zidian = (function () {
             ]
         },
         {
-            word: 'bù-hǎoyìsi',
+            word: 'bù hǎoyìsi',
             definitions: [
                 {
                     grammer: 'ie',
@@ -750,7 +750,7 @@ const zidian = (function () {
             ]
         },
         {
-            word: 'bù-tóng',
+            word: 'bù tóng',
             definitions: [
                 {
                     grammer: 'sv',
@@ -918,7 +918,7 @@ const zidian = (function () {
             ]
         },
         {
-            word: 'chàng-gēr',
+            word: 'chàng gēr',
             definitions: [
                 {
                     grammer: 'v-o',
@@ -976,7 +976,7 @@ const zidian = (function () {
             ]
         },
         {
-            word: 'chéng-li',
+            word: 'chéng li',
             definitions: [
                 {
                     grammer: 'pw',
@@ -1003,7 +1003,7 @@ const zidian = (function () {
             ]
         },
         {
-            word: 'chī-fàn',
+            word: 'chī fàn',
             definitions: [
                 {
                     grammer: 'v-o',
@@ -1021,7 +1021,7 @@ const zidian = (function () {
             ]
         },
         {
-            word: 'chōu-yān',
+            word: 'chōu yān',
             definitions: [
                 {
                     grammer: 'v-o',
@@ -1465,7 +1465,7 @@ const zidian = (function () {
             ]
         },
         {
-            word: 'dāo-chā',
+            word: 'dāo chā',
             definitions: [
                 {
                     grammer: 'n',
@@ -1639,7 +1639,7 @@ const zidian = (function () {
             ]
         },
         {
-            word: 'dì-li',
+            word: 'dì li',
             definitions: [
                 {
                     grammer: 'pw',
@@ -3069,7 +3069,7 @@ const zidian = (function () {
             ]
         },
         {
-            word: 'huà-huàr',
+            word: 'huà huàr',
             definitions: [
                 {
                     grammer: 'v-o',
@@ -3114,7 +3114,7 @@ const zidian = (function () {
             ]
         },
         {
-            word: 'huàn-chē',
+            word: 'huànchē',
             definitions: [
                 {
                     grammer: 'v-o',
@@ -3400,7 +3400,7 @@ const zidian = (function () {
             ]
         },
         {
-            word: 'jiàn-miàn',
+            word: 'jiàn miàn',
             definitions: [
                 {
                     grammer: 'v-o',
@@ -3445,7 +3445,7 @@ const zidian = (function () {
             ]
         },
         {
-            word: 'jiāo-shū',
+            word: 'jiāo shū',
             definitions: [
                 {
                     grammer: 'v-o',
@@ -3489,7 +3489,7 @@ const zidian = (function () {
             ]
         },
         {
-            word: 'jiào-hǎo',
+            word: 'jiào hǎo',
             definitions: [
                 {
                     grammer: 'v-o',
@@ -3551,7 +3551,7 @@ const zidian = (function () {
             ]
         },
         {
-            word: 'jié-hūn',
+            word: 'jié hūn',
             definitions: [
                 {
                     grammer: 'v-o',
@@ -3870,7 +3870,7 @@ const zidian = (function () {
             ]
         },
         {
-            word: 'kāi-chē',
+            word: 'kāi chē',
             definitions: [
                 {
                     grammer: 'v-o',
@@ -3924,7 +3924,7 @@ const zidian = (function () {
             ]
         },
         {
-            word: 'kàn-shū',
+            word: 'kàn shū',
             definitions: [
                 {
                     grammer: 'v-o',
@@ -4533,7 +4533,7 @@ const zidian = (function () {
             ]
         },
         {
-            word: 'lóng-fēi fēng-wǔ',
+            word: 'lóng fēi fēng wǔ',
             definitions: [
                 {
                     grammer: 'set ph',
@@ -4577,7 +4577,7 @@ const zidian = (function () {
             ]
         },
         {
-            word: 'lù-yīn',
+            word: 'lù yīn',
             definitions: [
                 {
                     grammer: 'v-o',
@@ -4595,7 +4595,7 @@ const zidian = (function () {
             ]
         },
         {
-            word: 'luó-mǎ dàchē',
+            word: 'luó mǎ dàchē',
             definitions: [
                 {
                     grammer: 'n',
@@ -5111,7 +5111,7 @@ const zidian = (function () {
             ]
         },
         {
-            word: 'nán-dé',
+            word: 'nán dé',
             definitions: [
                 {
                     grammer: 'sv',
@@ -5120,7 +5120,7 @@ const zidian = (function () {
             ]
         },
         {
-            word: 'nán-wàng',
+            word: 'nán wàng',
             definitions: [
                 {
                     grammer: 'sv',
@@ -5268,7 +5268,7 @@ const zidian = (function () {
             ]
         },
         {
-            word: 'niàn-shū',
+            word: 'niàn shū',
             definitions: [
                 {
                     grammer: 'v-o',
@@ -5349,7 +5349,7 @@ const zidian = (function () {
             ]
         },
         {
-            word: 'nǚ-de',
+            word: 'nǚ de',
             definitions: [
                 {
                     grammer: 'n',
@@ -5407,7 +5407,7 @@ const zidian = (function () {
             ]
         },
         {
-            word: 'pái-duì',
+            word: 'pái duì',
             definitions: [
                 {
                     grammer: 'v-o',
@@ -5814,7 +5814,7 @@ const zidian = (function () {
             ]
         },
         {
-            word: 'qǐng-kè',
+            word: 'qǐng kè',
             definitions: [
                 {
                     grammer: 'v-o',
@@ -5899,7 +5899,422 @@ const zidian = (function () {
             ]
         },
         {
-            word: '',
+            word: 'ràng',
+            definitions: [
+                {
+                    grammer: 'v',
+                    definition: 'yield, let, allow'
+                },
+                {
+                    grammer: 'cv',
+                    definition: 'by (in passive construction)'
+                }
+            ]
+        },
+        {
+            word: 'rè',
+            definitions: [
+                {
+                    grammer: 'sv',
+                    definition: 'hot'
+                }
+            ]
+        },
+        {
+            word: 'rén',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'person, people'
+                }
+            ]
+        },
+        {
+            word: 'rénmín',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'the people'
+                }
+            ]
+        },
+        {
+            word: 'rénmínbì',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: `people's currency`
+                }
+            ]
+        },
+        {
+            word: 'rénmín rìbào',
+            definitions: [
+                {
+                    grammer: 'pr',
+                    definition: `people's daily`
+                }
+            ]
+        },
+        {
+            word: 'rènshi',
+            definitions: [
+                {
+                    grammer: 'v',
+                    definition: 'recongnize, know'
+                }
+            ]
+        },
+        {
+            word: 'rìběn',
+            definitions: [
+                {
+                    grammer: 'pw',
+                    definition: 'japan'
+                }
+            ]
+        },
+        {
+            word: 'rìcháng',
+            definitions: [
+                {
+                    grammer: 'sv',
+                    definition: 'everday, routine'
+                }
+            ]
+        },
+        {
+            word: 'rìzi',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'day, date, special day'
+                }
+            ]
+        },
+        {
+            word: 'róngyì',
+            definitions: [
+                {
+                    grammer: 'sv',
+                    definition: 'easy'
+                }
+            ]
+        },
+        {
+            word: 'ruguǒ',
+            definitions: [
+                {
+                    grammer: 'mv',
+                    definition: 'if'
+                }
+            ]
+        },
+        {
+            word: 'sān',
+            definitions: [
+                {
+                    grammer: 'nu',
+                    definition: 'three'
+                }
+            ]
+        },
+        {
+            word: 'sāndiǎnshuǐ',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: '"water" radical'
+                }
+            ]
+        },
+        {
+            word: 'sānmíngzhì',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'sandwich'
+                }
+            ]
+        },
+        {
+            word: 'shāfā',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'sofa, easy chair'
+                }
+            ]
+        },
+        {
+            word: 'shān',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'mountain, hill'
+                }
+            ]
+        },
+        {
+            word: 'shānshuǐhuàr',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'landscape (painting)'
+                }
+            ]
+        },
+        {
+            word: 'shāngdiàn',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'shop, store'
+                }
+            ]
+        },
+        {
+            word: 'shàng',
+            definitions: [
+                {
+                    grammer: 'l',
+                    definition: 'top, on top of, above'
+                },
+                {
+                    grammer: 'v',
+                    definition: 'ascend, mount, go to'
+                }
+            ]
+        },
+        {
+            word: 'shàng cèsuǒ',
+            definitions: [
+                {
+                    grammer: 'vo',
+                    definition: 'go to lavatory'
+                }
+            ]
+        },
+        {
+            word: 'shàng kè',
+            definitions: [
+                {
+                    grammer: 'vo',
+                    definition: 'attend class, give a lesson'
+                }
+            ]
+        },
+        {
+            word: 'shàngwǔ',
+            definitions: [
+                {
+                    grammer: 'tw',
+                    definition: 'morning, AM'
+                }
+            ]
+        },
+        {
+            word: 'shàng xīngqīwǔ',
+            definitions: [
+                {
+                    grammer: 'tw',
+                    definition: 'last friday'
+                }
+            ]
+        },
+        {
+            word: 'shàng xué',
+            definitions: [
+                {
+                    grammer: 'vo',
+                    definition: 'attend school'
+                }
+            ]
+        },
+        {
+            word: 'shàng yuè',
+            definitions: [
+                {
+                    grammer: 'tw',
+                    definition: 'last month'
+                }
+            ]
+        },
+        {
+            word: 'shànghǎi',
+            definitions: [
+                {
+                    grammer: 'pw',
+                    definition: 'shanghai'
+                }
+            ]
+        },
+        {
+            word: 'shāo',
+            definitions: [
+                {
+                    grammer: 'v',
+                    definition: 'burnl cook, stew'
+                }
+            ]
+        },
+        {
+            word: 'shǎo',
+            definitions: [
+                {
+                    grammer: 'sv',
+                    definition: 'few, little'
+                }
+            ]
+        },
+        {
+            word: 'shèlì',
+            definitions: [
+                {
+                    grammer: 'v',
+                    definition: 'set up, establish'
+                }
+            ]
+        },
+        {
+            word: 'shèyuán',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'memeber of a association'
+                }
+            ]
+        },
+        {
+            word: 'shéi',
+            definitions: [
+                {
+                    grammer: 'qw',
+                    definition: 'who(m)'
+                }
+            ]
+        },
+        {
+            word: 'shuí',
+            definitions: [
+                {
+                    grammer: 'qw',
+                    definition: 'who(m)'
+                }
+            ]
+        },
+        {
+            word: 'shēntǐ',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'body; health'
+                }
+            ]
+        },
+        {
+            word: 'shénme',
+            definitions: [
+                {
+                    grammer: 'qw',
+                    definition: 'what'
+                }
+            ]
+        },
+        {
+            word: 'shēng',
+            definitions: [
+                {
+                    grammer: 'v',
+                    definition: 'give birth to, be born'
+                }
+            ]
+        },
+        {
+            word: 'shēngchǎn',
+            definitions: [
+                {
+                    grammer: 'v',
+                    definition: 'produce'
+                },
+                {
+                    grammer: 'n',
+                    definition: 'production'
+                }
+            ]
+        },
+        {
+            word: 'shēngchǎnduì',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'production team'
+                }
+            ]
+        },
+        {
+            word: 'shēnghuó',
+            definitions: [
+                {
+                    grammer: 'v',
+                    definition: 'live'
+                },
+                {
+                    grammer: 'n',
+                    definition: 'life'
+                }
+            ]
+        },
+        {
+            word: 'shēngrì',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'birthday'
+                }
+            ]
+        },
+        {
+            word: 'shīfu',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'master craftsman'
+                }
+            ]
+        },
+        {
+            word: 'shí',
+            definitions: [
+                {
+                    grammer: 'nu',
+                    definition: 'ten'
+                },
+                {
+                    grammer: 'bf',
+                    definition: 'time, hour'
+                },
+                {
+                    grammer: 'bf',
+                    definition: 'to eat; food'
+                },
+                {
+                    grammer: 'bf',
+                    definition: 'solid; true; real'
+                }
+            ]
+        },
+        {
+            word: 'shíhou',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'time'
+                }
+            ]
+        },
+        {
+            word: 'shíqī kǒng qiáo',
             definitions: [
                 {
                     grammer: '',
@@ -5908,7 +6323,2119 @@ const zidian = (function () {
             ]
         },
         {
-            word: '',
+            word: 'shíqī kǒng qiáo',
+            definitions: [
+                {
+                    grammer: 'pr',
+                    definition: 'seventeen-arch bridge'
+                }
+            ]
+        },
+        {
+            word: 'shíjiān',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'time'
+                }
+            ]
+        },
+        {
+            word: 'shítáng',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'refectory, canteen'
+                }
+            ]
+        },
+        {
+            word: 'shípǔ',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'cookery book, recipe'
+                }
+            ]
+        },
+        {
+            word: 'shíjì',
+            definitions: [
+                {
+                    grammer: 'sv/a',
+                    definition: 'real(ly), actual(ly)'
+                }
+            ]
+        },
+        {
+            word: 'shízài',
+            definitions: [
+                {
+                    grammer: 'a',
+                    definition: 'in reality, honestly'
+                }
+            ]
+        },
+        {
+            word: 'shì',
+            definitions: [
+                {
+                    grammer: 'cl v',
+                    definition: 'to be; to be so'
+                },
+                {
+                    grammer: 'n',
+                    definition: 'matter'
+                }
+            ]
+        },
+        {
+            word: 'shìjiè',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'world'
+                }
+            ]
+        },
+        {
+            word: 'shìjiè wénmíng',
+            definitions: [
+                {
+                    grammer: 'set ph',
+                    definition: 'world-famous'
+                }
+            ]
+        },
+        {
+            word: 'shìqing',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'matter'
+                }
+            ]
+        },
+        {
+            word: 'shōuyīnjī',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'radio receiver'
+                }
+            ]
+        },
+        {
+            word: 'shǒu',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'hand'
+                }
+            ]
+        },
+        {
+            word: 'shǒutíbāo',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'bag, hold-all'
+                }
+            ]
+        },
+        {
+            word: 'shǒuxù',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'procedures, formalities'
+                }
+            ]
+        },
+        {
+            word: 'shòu',
+            definitions: [
+                {
+                    grammer: 'sv',
+                    definition: 'thin, slim'
+                }
+            ]
+        },
+        {
+            word: 'shòu huānyíng',
+            definitions: [
+                {
+                    grammer: 'sv',
+                    definition: 'be popular'
+                }
+            ]
+        },
+        {
+            word: 'shòuhuòyuán',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'shop assistant'
+                }
+            ]
+        },
+        {
+            word: 'shū',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'book'
+                }
+            ]
+        },
+        {
+            word: 'shūdiàn',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'bookshop'
+                }
+            ]
+        },
+        {
+            word: 'shūjià',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'bookshelf'
+                }
+            ]
+        },
+        {
+            word: 'shūshu',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: `uncle (father's younget brother)`
+                }
+            ]
+        },
+        {
+            word: 'shūfu',
+            definitions: [
+                {
+                    grammer: 'sv',
+                    definition: 'confortable'
+                }
+            ]
+        },
+        {
+            word: 'shù',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'tree'
+                }
+            ]
+        },
+        {
+            word: 'shùlínzi',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'wood, copse'
+                }
+            ]
+        },
+        {
+            word: 'shùmù',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'trees'
+                }
+            ]
+        },
+        {
+            word: 'shùxué',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'mathematics'
+                }
+            ]
+        },
+        {
+            word: 'shuāngshēng',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'twins'
+                }
+            ]
+        },
+        {
+            word: 'shuāngshēng xiōngdì',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'twin brothers'
+                }
+            ]
+        },
+        {
+            word: 'shuāngshù',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'even number'
+                }
+            ]
+        },
+        {
+            word: 'shuǐ',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'water'
+                }
+            ]
+        },
+        {
+            word: 'shuǐguǒ',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'fruit'
+                }
+            ]
+        },
+        {
+            word: 'shuǐlì',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'water conservancy'
+                }
+            ]
+        },
+        {
+            word: 'shuǐpíng',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'level, standard'
+                }
+            ]
+        },
+        {
+            word: 'shuì jiào',
+            definitions: [
+                {
+                    grammer: 'v-o',
+                    definition: 'sleep'
+                }
+            ]
+        },
+        {
+            word: 'shuìbuzháo',
+            definitions: [
+                {
+                    grammer: 'v',
+                    definition: 'unable to get to sleep'
+                }
+            ]
+        },
+        {
+            word: 'shuō',
+            definitions: [
+                {
+                    grammer: 'v',
+                    definition: 'speak; reprove, criticize'
+                }
+            ]
+        },
+        {
+            word: 'shuōbudìng',
+            definitions: [
+                {
+                    grammer: 'v',
+                    definition: `can't say for sure; maybe`
+                }
+            ]
+        },
+        {
+            word: 'shuō huà',
+            definitions: [
+                {
+                    grammer: 'v-o',
+                    definition: 'speak'
+                }
+            ]
+        },
+        {
+            word: 'sīxiǎng',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'thought, thinking'
+                }
+            ]
+        },
+        {
+            word: 'sì',
+            definitions: [
+                {
+                    grammer: 'nu',
+                    definition: 'four'
+                }
+            ]
+        },
+        {
+            word: 'sòng',
+            definitions: [
+                {
+                    grammer: 'v',
+                    definition: 'give (as present); send'
+                }
+            ]
+        },
+        {
+            word: 'sūlián',
+            definitions: [
+                {
+                    grammer: 'pw',
+                    definition: 'soviet union'
+                }
+            ]
+        },
+        {
+            word: 'sùcài',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'vegetable dish'
+                }
+            ]
+        },
+        {
+            word: 'suān',
+            definitions: [
+                {
+                    grammer: 'sv',
+                    definition: 'sour'
+                }
+            ]
+        },
+        {
+            word: 'suàn',
+            definitions: [
+                {
+                    grammer: 'v',
+                    definition: 'calculate, reckon'
+                }
+            ]
+        },
+        {
+            word: 'suàn rìzi',
+            definitions: [
+                {
+                    grammer: 'vo',
+                    definition: 'reckon up the days'
+                }
+            ]
+        },
+        {
+            word: 'suīrán',
+            definitions: [
+                {
+                    grammer: 'ma',
+                    definition: 'although'
+                }
+            ]
+        },
+        {
+            word: 'suì',
+            definitions: [
+                {
+                    grammer: 'm',
+                    definition: 'year of age'
+                }
+            ]
+        },
+        {
+            word: 'sūnzi',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'grandson'
+                }
+            ]
+        },
+        {
+            word: 'suǒ',//(r)
+            definitions: [
+                {
+                    grammer: 'm',
+                    definition: 'for houses and some buildings'
+                },
+                {
+                    grammer: 'a',
+                    definition: 'actually, "that which"'
+                }
+            ]
+        },
+        {
+            word: 'suǒyǐ',
+            definitions: [
+                {
+                    grammer: 'ma',
+                    definition: 'therefore'
+                }
+            ]
+        },
+        {
+            word: 'tā',
+            definitions: [
+                {
+                    grammer: 'pn',
+                    definition: 'he, she; hom, her'
+                }
+            ]
+        },
+        {
+            word: 'tāmen',
+            definitions: [
+                {
+                    grammer: 'pn',
+                    definition: 'they; them'
+                }
+            ]
+        },
+        {
+            word: 'tài',
+            definitions: [
+                {
+                    grammer: 'a',
+                    definition: 'too, excessively'
+                }
+            ]
+        },
+        {
+            word: 'tàijíquán',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'shadow-boxing'
+                }
+            ]
+        },
+        {
+            word: 'tàiyáng',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'sun'
+                }
+            ]
+        },
+        {
+            word: 'tàitai',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'lady; wife; mrs'
+                }
+            ]
+        },
+        {
+            word: 'tán',
+            definitions: [
+                {
+                    grammer: 'v',
+                    definition: 'talk'
+                }
+            ]
+        },
+        {
+            word: 'tándelái',
+            definitions: [
+                {
+                    grammer: 'v',
+                    definition: 'able to talk to/get on with'
+                }
+            ]
+        },
+        {
+            word: 'tán tiānr',
+            definitions: [
+                {
+                    grammer: 'v-o',
+                    definition: 'chat, natter'
+                }
+            ]
+        },
+        {
+            word: 'tán qín',
+            definitions: [
+                {
+                    grammer: 'vo',
+                    definition: 'play, strum lute'
+                }
+            ]
+        },
+        {
+            word: 'tāng',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'sugar, sweets'
+                }
+            ]
+        },
+        {
+            word: 'tángcù',
+            definitions: [
+                {
+                    grammer: 'at',
+                    definition: 'sweet and sour'
+                }
+            ]
+        },
+        {
+            word: 'tào',
+            definitions: [
+                {
+                    grammer: 'm',
+                    definition: 'set of, suit, suite'
+                }
+            ]
+        },
+        {
+            word: 'tèbié',
+            definitions: [
+                {
+                    grammer: 'sv/a',
+                    definition: 'special(ly)'
+                }
+            ]
+        },
+        {
+            word: 'tígāo',
+            definitions: [
+                {
+                    grammer: 'v',
+                    definition: 'raise, improve'
+                }
+            ]
+        },
+        {
+            word: 'tǐyàn',
+            definitions: [
+                {
+                    grammer: 'v/n',
+                    definition: 'experince for oneself'
+                }
+            ]
+        },
+        {
+            word: 'tì',
+            definitions: [
+                {
+                    grammer: 'v',
+                    definition: 'to stan in for'
+                },
+                {
+                    grammer: 'cv',
+                    definition: 'on behalf of, for'
+                }
+            ]
+        },
+        {
+            word: 'tiān',
+            definitions: [
+                {
+                    grammer: 'm',
+                    definition: 'day'
+                },
+                {
+                    grammer: 'n',
+                    definition: 'sky, heaven'
+                }
+            ]
+        },
+        {
+            word: 'tiānkōng',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'sky'
+                }
+            ]
+        },
+        {
+            word: 'tiānliàng',
+            definitions: [
+                {
+                    grammer: 's-predicate',
+                    definition: 'daybreak'
+                }
+            ]
+        },
+        {
+            word: 'tiānqi',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'weather'
+                }
+            ]
+        },
+        {
+            word: 'tián',
+            definitions: [
+                {
+                    grammer: 'sv',
+                    definition: 'sweet'
+                }
+            ]
+        },
+        {
+            word: 'tiáo',
+            definitions: [
+                {
+                    grammer: 'm',
+                    definition: 'for fish and various long narrow things'
+                }
+            ]
+        },
+        {
+            word: 'tiē',
+            definitions: [
+                {
+                    grammer: 'v',
+                    definition: 'stick (on)'
+                }
+            ]
+        },
+        {
+            word: 'tiě',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'iron'
+                }
+            ]
+        },
+        {
+            word: 'tiělù',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'railway'
+                }
+            ]
+        },
+        {
+            word: 'tīng',
+            definitions: [
+                {
+                    grammer: 'v',
+                    definition: 'listen'
+                }
+            ]
+        },
+        {
+            word: 'tīngshuō',
+            definitions: [
+                {
+                    grammer: 'v',
+                    definition: 'hear (it said) that'
+                },
+                {
+                    grammer: 'n',
+                    definition: 'hearsay'
+                }
+            ]
+        },
+        {
+            word: 'tíng',
+            definitions: [
+                {
+                    grammer: 'v',
+                    definition: 'stop, halt; park, berth'
+                }
+            ]
+        },
+        {
+            word: 'tóng',
+            definitions: [
+                {
+                    grammer: 'bf',
+                    definition: 'same, alike'
+                }
+            ]
+        },
+        {
+            word: 'tóngchē',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: `'same car' fellow (of travellers)`
+                }
+            ]
+        },
+        {
+            word: 'tóngxué',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'fellow student'
+                }
+            ]
+        },
+        {
+            word: 'tóngzhi',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'comrade'
+                }
+            ]
+        },
+        {
+            word: 'tōu',
+            definitions: [
+                {
+                    grammer: 'v',
+                    definition: 'steal'
+                }
+            ]
+        },
+        {
+            word: 'tóu',
+            definitions: [
+                {
+                    grammer: 'n/l suffix',
+                    definition: 'head'
+                }
+            ]
+        },
+        {
+            word: 'tóufa',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'hair (on a human head)'
+                }
+            ]
+        },
+        {
+            word: 'túshūguǎn',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'library'
+                }
+            ]
+        },
+        {
+            word: 'tuōyùn',
+            definitions: [
+                {
+                    grammer: 'v',
+                    definition: 'check through (baggage)'
+                }
+            ]
+        },
+        {
+            word: 'wài',
+            definitions: [
+                {
+                    grammer: 'l',
+                    definition: 'outside'
+                }
+            ]
+        },
+        {
+            word: 'wàiguó',
+            definitions: [
+                {
+                    grammer: 'pw',
+                    definition: 'foreign parts, abroad'
+                }
+            ]
+        },
+        {
+            word: 'wàiyǔ',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'foreign language'
+                }
+            ]
+        },
+        {
+            word: 'wánquán',
+            definitions: [
+                {
+                    grammer: 'sv/a',
+                    definition: 'complete(ly)'
+                }
+            ]
+        },
+        {
+            word: 'wánr',
+            definitions: [
+                {
+                    grammer: 'v',
+                    definition: 'to play, amuse oneself'
+                }
+            ]
+        },
+        {
+            word: 'wǎn',
+            definitions: [
+                {
+                    grammer: 'sv',
+                    definition: 'late'
+                },
+                {
+                    grammer: 'n/m',
+                    definition: 'bowl (of)'
+                }
+            ]
+        },
+        {
+            word: 'wǎnshang',
+            definitions: [
+                {
+                    grammer: 'tw',
+                    definition: 'evening'
+                }
+            ]
+        },
+        {
+            word: 'wàn',
+            definitions: [
+                {
+                    grammer: 'nu',
+                    definition: 'ten thousand'
+                }
+            ]
+        },
+        {
+            word: 'wànlǐ chángchéng',
+            definitions: [
+                {
+                    grammer: 'pr',
+                    definition: 'the great wall'
+                }
+            ]
+        },
+        {
+            word: 'wáng',
+            definitions: [
+                {
+                    grammer: 'pr',
+                    definition: 'a common surname (n) king'
+                }
+            ]
+        },
+        {
+            word: 'wàng',
+            definitions: [
+                {
+                    grammer: 'cv',
+                    definition: 'towards'
+                },
+                {
+                    grammer: 'v',
+                    definition: 'look (across) at'
+                }
+            ]
+        },
+        {
+            word: 'wǎng',
+            definitions: [
+                {
+                    grammer: 'cv',
+                    definition: 'towards'
+                }
+            ]
+        },
+        {
+            word: 'wàngle',
+            definitions: [
+                {
+                    grammer: 'v',
+                    definition: 'forget'
+                }
+            ]
+        },
+        {
+            word: 'wěidà',
+            definitions: [
+                {
+                    grammer: 'sv',
+                    definition: 'great, imposing'
+                }
+            ]
+        },
+        {
+            word: 'wèi',
+            definitions: [
+                {
+                    grammer: 'm',
+                    definition: 'for persons (polite)'
+                },
+                {
+                    grammer: 'cv',
+                    definition: 'because of, for te sake of'
+                },
+                {
+                    grammer: 'i',
+                    definition: 'hello, hey!'
+                }
+            ]
+        },
+        {
+            word: 'wèile',
+            definitions: [
+                {
+                    grammer: 'cv',
+                    definition: 'for (the sake of), in order to'
+                }
+            ]
+        },
+        {
+            word: 'wèishenme',
+            definitions: [
+                {
+                    grammer: 'ma',
+                    definition: 'why (because of what)'
+                }
+            ]
+        },
+        {
+            word: 'wéi',
+            definitions: [
+                {
+                    grammer: 'i',
+                    definition: 'hello, hey!'
+                }
+            ]
+        },
+        {
+            word: 'wèishēng',
+            definitions: [
+                {
+                    grammer: 'n/sv',
+                    definition: 'hygiene, hygienic'
+                }
+            ]
+        },
+        {
+            word: 'wèishēngzhǐ',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'toilet paper'
+                }
+            ]
+        },
+        {
+            word: 'wén',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'writing, written word; language'
+                }
+            ]
+        },
+        {
+            word: 'wénhuà',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'culture; standards of education'
+                }
+            ]
+        },
+        {
+            word: 'wénmíng',
+            definitions: [
+                {
+                    grammer: 'sv',
+                    definition: 'renowned'
+                }
+            ]
+        },
+        {
+            word: 'wèn',
+            definitions: [
+                {
+                    grammer: 'v',
+                    definition: 'ask, inquire (a question)'
+                }
+            ]
+        },
+        {
+            word: 'wèntí',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'question, problem'
+                }
+            ]
+        },
+        {
+            word: 'wǒ',
+            definitions: [
+                {
+                    grammer: 'pn',
+                    definition: 'I; me'
+                }
+            ]
+        },
+        {
+            word: 'wǒmen',
+            definitions: [
+                {
+                    grammer: 'pn',
+                    definition: 'we; uss'
+                }
+            ]
+        },
+        {
+            word: 'wūzi',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'room'
+                }
+            ]
+        },
+        {
+            word: 'wúyǐng wúzōng',
+            definitions: [
+                {
+                    grammer: 'set ph',
+                    definition: `'without shadow without trace'`
+                }
+            ]
+        },
+        {
+            word: 'wǔ',
+            definitions: [
+                {
+                    grammer: 'nu',
+                    definition: 'five'
+                }
+            ]
+        },
+        {
+            word: 'wǔfan',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'lunch'
+                }
+            ]
+        },
+        {
+            word: 'wù',
+            definitions: [
+                {
+                    grammer: 'v',
+                    definition: 'miss (train, bus, etc.)'
+                }
+            ]
+        },
+        {
+            word: 'xī',
+            definitions: [
+                {
+                    grammer: 'l',
+                    definition: 'west'
+                }
+            ]
+        },
+        {
+            word: 'xīcān',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'western food'
+                }
+            ]
+        },
+        {
+            word: 'xīfú',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'western clothes, suit'
+                }
+            ]
+        },
+        {
+            word: 'xīhuà',
+            definitions: [
+                {
+                    grammer: 'v/sv',
+                    definition: 'westernize(d)'
+                }
+            ]
+        },
+        {
+            word: 'xīwàng',
+            definitions: [
+                {
+                    grammer: 'v/n',
+                    definition: 'hope'
+                }
+            ]
+        },
+        {
+            word: 'xīyǐn',
+            definitions: [
+                {
+                    grammer: 'v',
+                    definition: 'attract, draw'
+                }
+            ]
+        },
+        {
+            word: 'xǐ',
+            definitions: [
+                {
+                    grammer: 'v',
+                    definition: 'wash'
+                }
+            ]
+        },
+        {
+            word: 'xǐhuan',
+            definitions: [
+                {
+                    grammer: 'v/mv',
+                    definition: 'like (to)'
+                }
+            ]
+        },
+        {
+            word: 'xì',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'frama, play, show'
+                }
+            ]
+        },
+        {
+            word: 'xià',
+            definitions: [
+                {
+                    grammer: 'l',
+                    definition: 'below; down; under'
+                },
+                {
+                    grammer: 'v',
+                    definition: 'descend; alight, get off'
+                },
+                {
+                    grammer: 'm',
+                    definition: `verbal measure: a 'go'`
+                },
+                {
+                    grammer: 'at',
+                    definition: `next`
+                }
+            ]
+        },
+        {
+            word: 'xià bān',
+            definitions: [
+                {
+                    grammer: 'vo',
+                    definition: 'come off duty'
+                }
+            ]
+        },
+        {
+            word: 'xià guǎnzi',
+            definitions: [
+                {
+                    grammer: 'vo',
+                    definition: 'go to a restaurant'
+                }
+            ]
+        },
+        {
+            word: 'xiàwǔ',
+            definitions: [
+                {
+                    grammer: 'tw',
+                    definition: 'afternoon, PM'
+                }
+            ]
+        },
+        {
+            word: 'xià xuě',
+            definitions: [
+                {
+                    grammer: 'v-o',
+                    definition: 'to snow'
+                }
+            ]
+        },
+        {
+            word: 'xià yǔ',
+            definitions: [
+                {
+                    grammer: 'v-o',
+                    definition: 'to rain'
+                }
+            ]
+        },
+        {
+            word: 'xiān',
+            definitions: [
+                {
+                    grammer: 'a',
+                    definition: 'first, before, in advance'
+                }
+            ]
+        },
+        {
+            word: 'xiānsheng',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'gentleman; husband; mr'
+                }
+            ]
+        },
+        {
+            word: 'xián',
+            definitions: [
+                {
+                    grammer: 'sv',
+                    definition: 'salty, savoury'
+                }
+            ]
+        },
+        {
+            word: 'xiàn',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'line, wire, thread'
+                }
+            ]
+        },
+        {
+            word: 'xiànzài',
+            definitions: [
+                {
+                    grammer: 'tw',
+                    definition: 'now'
+                }
+            ]
+        },
+        {
+            word: 'xiāng',
+            definitions: [
+                {
+                    grammer: 'sv',
+                    definition: 'fragrant'
+                }
+            ]
+        },
+        {
+            word: 'xiānggǎng',
+            definitions: [
+                {
+                    grammer: 'pw',
+                    definition: 'hong kong'
+                }
+            ]
+        },
+        {
+            word: 'xiāngdāng',
+            definitions: [
+                {
+                    grammer: 'a',
+                    definition: 'quite, pretty'
+                }
+            ]
+        },
+        {
+            word: 'xiāngxia',
+            definitions: [
+                {
+                    grammer: 'pw',
+                    definition: 'countryside'
+                }
+            ]
+        },
+        {
+            word: 'xiāngzi',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'suitcase, trunk, box'
+                }
+            ]
+        },
+        {
+            word: 'xiǎng',
+            definitions: [
+                {
+                    grammer: 'v',
+                    definition: 'think'
+                },
+                {
+                    grammer: 'v',
+                    definition: 'sound'
+                },
+                {
+                    grammer: 'sv',
+                    definition: 'loud'
+                },
+                {
+                    grammer: 'mv',
+                    definition: 'want to, plan to, fell like'
+                }
+            ]
+        },
+        {
+            word: 'xiǎngyào',
+            definitions: [
+                {
+                    grammer: 'v',
+                    definition: 'desire'
+                }
+            ]
+        },
+        {
+            word: 'xiàng',
+            definitions: [
+                {
+                    grammer: 'cv',
+                    definition: 'towards'
+                },
+                {
+                    grammer: 'v',
+                    definition: 'to resemble'
+                },
+                {
+                    grammer: 'sv',
+                    definition: 'alike'
+                }
+            ]
+        },
+        {
+            word: 'xiǎo',
+            definitions: [
+                {
+                    grammer: 'sv',
+                    definition: 'small, young'
+                }
+            ]
+        },
+        {
+            word: 'xiǎoháir',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'child'
+                }
+            ]
+        },
+        {
+            word: 'xiǎojie',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'young lady, miss'
+                }
+            ]
+        },
+        {
+            word: 'xiǎoshí',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'hour'
+                }
+            ]
+        },
+        {
+            word: 'xiǎoshuō',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'fiction, novel'
+                }
+            ]
+        },
+        {
+            word: 'xiǎoxué',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'junior school'
+                }
+            ]
+        },
+        {
+            word: 'xiē',
+            definitions: [
+                {
+                    grammer: 'nu',
+                    definition: 'some, several'
+                }
+            ]
+        },
+        {
+            word: 'xiě',
+            definitions: [
+                {
+                    grammer: 'v',
+                    definition: 'write'
+                }
+            ]
+        },
+        {
+            word: 'xiěchéng',
+            definitions: [
+                {
+                    grammer: 'v',
+                    definition: 'compile (fashion through writing)'
+                }
+            ]
+        },
+        {
+            word: 'xièxie',
+            definitions: [
+                {
+                    grammer: 'v',
+                    definition: 'thank'
+                },
+                {
+                    grammer: 'ie',
+                    definition: 'thank you'
+                }
+            ]
+        },
+        {
+            word: 'xīn',
+            definitions: [
+                {
+                    grammer: 'sv',
+                    definition: 'new'
+                },
+                {
+                    grammer: 'n',
+                    definition: 'heart, mind'
+                }
+            ]
+        },
+        {
+            word: 'xīnqí',
+            definitions: [
+                {
+                    grammer: 'sv',
+                    definition: 'novel'
+                }
+            ]
+        },
+        {
+            word: 'xīnshǒu',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'new hand, novice'
+                }
+            ]
+        },
+        {
+            word: 'xīnwén',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'news'
+                }
+            ]
+        },
+        {
+            word: 'xīndé',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'knowledge gained'
+                }
+            ]
+        },
+        {
+            word: 'xìn',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'letter'
+                },
+                {
+                    grammer: 'v',
+                    definition: 'believe'
+                }
+            ]
+        },
+        {
+            word: 'xìnfēng',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'envelope'
+                }
+            ]
+        },
+        {
+            word: 'xīngqī',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'week'
+                },
+                {
+                    grammer: 'tw',
+                    definition: 'sunday'
+                }
+            ]
+        },
+        {
+            word: 'xīngqī liù',
+            definitions: [
+                {
+                    grammer: 'tw',
+                    definition: 'saturday'
+                }
+            ]
+        },
+        {
+            word: 'xīngqī rì',
+            definitions: [
+                {
+                    grammer: 'tw',
+                    definition: 'sunday'
+                }
+            ]
+        },
+        {
+            word: 'xīngqī tiān',
+            definitions: [
+                {
+                    grammer: 'tw',
+                    definition: 'sunday'
+                }
+            ]
+        },
+        {
+            word: 'xīngqī yī',
+            definitions: [
+                {
+                    grammer: 'tw',
+                    definition: 'monday'
+                }
+            ]
+        },
+        {
+            word: 'xīngfèn',
+            definitions: [
+                {
+                    grammer: 'sv',
+                    definition: 'excited'
+                }
+            ]
+        },
+        {
+            word: 'xíng',
+            definitions: [
+                {
+                    grammer: 'sv',
+                    definition: 'pass muster, be ok'
+                }
+            ]
+        },
+        {
+            word: 'xíngli',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'luggage'
+                }
+            ]
+        },
+        {
+            word: 'xíng yǐng bù lí',
+            definitions: [
+                {
+                    grammer: 'set ph',
+                    definition: 'inseparable'
+                }
+            ]
+        },
+        {
+            word: 'xǐng',
+            definitions: [
+                {
+                    grammer: 'v',
+                    definition: 'awake'
+                }
+            ]
+        },
+        {
+            word: 'xìng',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'surname'
+                },
+                {
+                    grammer: 'cl v',
+                    definition: 'be surnamed'
+                }
+            ]
+        },
+        {
+            word: 'xìngqing',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'nature, temperament'
+                }
+            ]
+        },
+        {
+            word: 'xìngqù',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'interest'
+                }
+            ]
+        },
+        {
+            word: 'xìngzi',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'temper'
+                }
+            ]
+        },
+        {
+            word: 'xiōngdì',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'brothers; younger brother'
+                }
+            ]
+        },
+        {
+            word: 'xiūxi',
+            definitions: [
+                {
+                    grammer: 'v/n',
+                    definition: 'rest, (take a) break'
+                }
+            ]
+        },
+        {
+            word: 'xué',
+            definitions: [
+                {
+                    grammer: 'v',
+                    definition: 'study, learn'
+                }
+            ]
+        },
+        {
+            word: 'xuésheng',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'student, pupil'
+                }
+            ]
+        },
+        {
+            word: 'xuéxí',
+            definitions: [
+                {
+                    grammer: 'v/n',
+                    definition: 'study'
+                }
+            ]
+        },
+        {
+            word: 'xuéxiào',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'school, college'
+                }
+            ]
+        },
+        {
+            word: 'xuéyuàn',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'college'
+                }
+            ]
+        },
+        {
+            word: 'xuě',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'snow'
+                }
+            ]
+        },
+        {
+            word: 'xúnzhǎo',
+            definitions: [
+                {
+                    grammer: 'v',
+                    definition: 'seek, look for'
+                }
+            ]
+        },
+        {
+            word: 'yān',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'smoke, cigarette'
+                }
+            ]
+        },
+        {
+            word: 'yānhūhgāng',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'ashtray'
+                }
+            ]
+        },
+        {
+            word: 'yán',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'salt'
+                }
+            ]
+        },
+        {
+            word: 'yánjiū',
+            definitions: [
+                {
+                    grammer: 'v/n',
+                    definition: 'research, study'
+                }
+            ]
+        },
+        {
+            word: 'yánsè',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'color'
+                }
+            ]
+        },
+        {
+            word: 'yǎn',
+            definitions: [
+                {
+                    grammer: 'bf',
+                    definition: 'eye'
+                }
+            ]
+        },
+        {
+            word: 'yǎnjing',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'eye'
+                }
+            ]
+        },
+        {
+            word: 'yǎnjìngr',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'spectacles'
+                }
+            ]
+        },
+        {
+            word: 'yǎnqián',
+            definitions: [
+                {
+                    grammer: 'pw',
+                    definition: 'before the eyes'
+                }
+            ]
+        },
+        {
+            word: 'yào',
+            definitions: [
+                {
+                    grammer: 'v',
+                    definition: 'want; ask for'
+                },
+                {
+                    grammer: 'mv',
+                    definition: 'want to; be about to, will'
+                }
+            ]
+        },
+        {
+            word: 'yàoburán',
+            definitions: [
+                {
+                    grammer: 'c',
+                    definition: 'otherwise'
+                }
+            ]
+        },
+        {
+            word: 'yàojǐn',
+            definitions: [
+                {
+                    grammer: 'sv',
+                    definition: 'important, urgent'
+                }
+            ]
+        },
+        {
+            word: 'yàoshi',
+            definitions: [
+                {
+                    grammer: 'ma',
+                    definition: 'if'
+                }
+            ]
+        },
+        {
+            word: 'yě',
+            definitions: [
+                {
+                    grammer: 'a',
+                    definition: 'also, too, either, as well'
+                }
+            ]
+        },
+        {
+            word: 'yěxǔ',
+            definitions: [
+                {
+                    grammer: 'ma',
+                    definition: 'perhaps'
+                }
+            ]
+        },
+        {
+            word: 'yè',
+            definitions: [
+                {
+                    grammer: 'n/m',
+                    definition: 'night'
+                }
+            ]
+        },
+        {
+            word: 'yī',
+            definitions: [
+                {
+                    grammer: 'nu',
+                    definition: 'one'
+                }
+            ]
+        },
+        {
+            word: 'yí',
+            definitions: [
+                {
+                    grammer: 'nu',
+                    definition: 'one'
+                }
+            ]
+        },
+        {
+            word: 'yì',
+            definitions: [
+                {
+                    grammer: 'nu',
+                    definition: 'one'
+                }
+            ]
+        },
+        {
+            word: 'yídìng',
+            definitions: [
+                {
+                    grammer: 'a',
+                    definition: 'defninitely, certainly'
+                }
+            ]
+        },
+        {
+            word: 'yígòng',
+            definitions: [
+                {
+                    grammer: 'ma',
+                    definition: 'together'
+                }
+            ]
+        },
+        {
+            word: 'yíkuàir',
+            definitions: [
+                {
+                    grammer: 'a',
+                    definition: 'together'
+                }
+            ]
+        },
+        {
+            word: 'yíqiè',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'everything; all'
+                }
+            ]
+        },
+        {
+            word: 'yíwàng wújì',
+            definitions: [
+                {
+                    grammer: 'set ph',
+                    definition: `'look afar no bound', limitless`
+                }
+            ]
+        },
+        {
+            word: 'yíyàng',
+            definitions: [
+                {
+                    grammer: 'sv/a',
+                    definition: 'the same, equal(ly)'
+                }
+            ]
+        },
+        {
+            word: 'yíyuè',
+            definitions: [
+                {
+                    grammer: 'tw',
+                    definition: 'january'
+                }
+            ]
+        },
+        {
+            word: 'yìbān',
+            definitions: [
+                {
+                    grammer: 'sv',
+                    definition: 'general, ordinary'
+                },
+                {
+                    grammer: 'a',
+                    definition: 'generally, equally'
+                }
+            ]
+        },
+        {
+            word: 'yìdiǎn',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'a little, some'
+                }
+            ]
+        },
+        {
+            word: 'yìhuǐr',
+            definitions: [
+                {
+                    grammer: 'tw',
+                    definition: 'a short while'
+                }
+            ]
+        },
+        {
+            word: 'yíhuìr',
+            definitions: [
+                {
+                    grammer: 'tw',
+                    definition: 'a short while'
+                }
+            ]
+        },
+        {
+            word: 'yìqǐ',
+            definitions: [
+                {
+                    grammer: 'a/pw',
+                    definition: 'together'
+                }
+            ]
+        },
+        {
+            word: 'yì shēn hàn',
+            definitions: [
+                {
+                    grammer: 'nu-m-n',
+                    definition: 'sweating all over'
+                }
+            ]
+        },
+        {
+            word: 'yìzhí',
+            definitions: [
+                {
+                    grammer: 'a',
+                    definition: 'straight through, all along'
+                }
+            ]
+        },
+        {
+            word: 'yīfu',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'clothing, clothes'
+                }
+            ]
+        },
+        {
+            word: 'yīyuàn',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'hospital'
+                }
+            ]
+        },
+        {
+            word: 'yíhéyuán',
             definitions: [
                 {
                     grammer: '',
@@ -5917,313 +8444,1109 @@ const zidian = (function () {
             ]
         },
         {
-            word: '',
+            word: 'yǐhòu',
             definitions: [
                 {
-                    grammer: '',
+                    grammer: 'tw',
+                    definition: 'after; afterwards; later; from now on'
+                }
+            ]
+        },
+        {
+            word: 'yǐjing',
+            definitions: [
+                {
+                    grammer: 'a',
+                    definition: 'already'
+                }
+            ]
+        },
+        {
+            word: 'yǐqián',
+            definitions: [
+                {
+                    grammer: 'tw',
+                    definition: 'before; previously'
+                }
+            ]
+        },
+        {
+            word: 'yǐwéi',
+            definitions: [
+                {
+                    grammer: 'v',
+                    definition: 'think that, assume'
+                }
+            ]
+        },
+        {
+            word: 'yǐzi',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'chair'
+                }
+            ]
+        },
+        {
+            word: 'yì',
+            definitions: [
+                {
+                    grammer: 'nu',
+                    definition: 'hundred million'
+                }
+            ]
+        },
+        {
+            word: 'yìsi',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'meaning; idea'
+                }
+            ]
+        },
+        {
+            word: 'yìshù',
+            definitions: [
+                {
+                    grammer: 'n/sv',
+                    definition: 'art(istic)'
+                }
+            ]
+        },
+        {
+            word: 'yìwàide',
+            definitions: [
+                {
+                    grammer: 'a',
+                    definition: 'in a unforeseen manner'
+                }
+            ]
+        },
+        {
+            word: 'yīnwei',
+            definitions: [
+                {
+                    grammer: 'ma',
+                    definition: 'because'
+                }
+            ]
+        },
+        {
+            word: 'yīnyuè',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'music'
+                }
+            ]
+        },
+        {
+            word: 'yīnggāi',
+            definitions: [
+                {
+                    grammer: 'mv',
+                    definition: 'should, ought to'
+                }
+            ]
+        },
+        {
+            word: 'yīngguó',
+            definitions: [
+                {
+                    grammer: 'pw',
+                    definition: 'england, uk'
+                }
+            ]
+        },
+        {
+            word: 'yīngwén',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'english language'
+                }
+            ]
+        },
+        {
+            word: 'yòng',
+            definitions: [
+                {
+                    grammer: 'v',
+                    definition: 'use'
+                },
+                {
+                    grammer: 'cv',
+                    definition: 'using, by means of, with'
+                }
+            ]
+        },
+        {
+            word: 'yònggōng',
+            definitions: [
+                {
+                    grammer: 'sv',
+                    definition: `diligent (in ones's studies)`
+                }
+            ]
+        },
+        {
+            word: 'yǒu',
+            definitions: [
+                {
+                    grammer: 'v',
+                    definition: 'have; exist; there is/are'
+                }
+            ]
+        },
+        {
+            word: 'yǒu dàolǐ',
+            definitions: [
+                {
+                    grammer: 'sv',
+                    definition: 'reasonable, justified'
+                }
+            ]
+        },
+        {
+            word: 'yǒude',
+            definitions: [
+                {
+                    grammer: 'at',
+                    definition: 'some'
+                }
+            ]
+        },
+        {
+            word: 'yǒu guān',
+            definitions: [
+                {
+                    grammer: 'relevant, (the one) concerned',
                     definition: ''
                 }
             ]
         },
         {
-            word: '',
+            word: 'yǒu lí',
             definitions: [
                 {
-                    grammer: '',
+                    grammer: 'sv',
+                    definition: 'forceful'
+                }
+            ]
+        },
+        {
+            word: 'yǒu míng',
+            definitions: [
+                {
+                    grammer: 'sv',
+                    definition: 'famous'
+                }
+            ]
+        },
+        {
+            word: 'yǒu tiáo yǒu lǐ',
+            definitions: [
+                {
+                    grammer: 'sv/a',
+                    definition: 'methodical(ly)'
+                }
+            ]
+        },
+        {
+            word: 'yǒu diǎn',
+            definitions: [
+                {
+                    grammer: 'a',
+                    definition: 'somewhat'
+                }
+            ]
+        },
+        {
+            word: 'yǒu yìsi',
+            definitions: [
+                {
+                    grammer: 'sv',
+                    definition: 'interesting'
+                }
+            ]
+        },
+        {
+            word: 'yǒu yòng',
+            definitions: [
+                {
+                    grammer: 'sv',
+                    definition: 'useful'
+                }
+            ]
+        },
+        {
+            word: 'yòu',
+            definitions: [
+                {
+                    grammer: 'l',
+                    definition: 'right, to/on the right'
+                },
+                {
+                    grammer: 'a',
+                    definition: 'again, then again (do something) further'
+                }
+            ]
+        },
+        {
+            word: 'yú',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'fish'
+                }
+            ]
+        },
+        {
+            word: 'yǔ',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'rain'
+                }
+            ]
+        },
+        {
+            word: 'yùbèi',
+            definitions: [
+                {
+                    grammer: 'v',
+                    definition: 'prepare, make ready'
+                }
+            ]
+        },
+        {
+            word: 'yuán',
+            definitions: [
+                {
+                    grammer: 'm',
+                    definition: 'basic unit of currency'
+                },
+                {
+                    grammer: 'n',
+                    definition: 'member of group, trade, profession'
+                }
+            ]
+        },
+        {
+            word: 'yuánlái',
+            definitions: [
+                {
+                    grammer: 'ma',
+                    definition: 'originally; as a matter of fact'
+                }
+            ]
+        },
+        {
+            word: 'yuǎn',
+            definitions: [
+                {
+                    grammer: 'sv',
+                    definition: 'far, distant'
+                }
+            ]
+        },
+        {
+            word: 'yuè',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'month'
+                }
+            ]
+        },
+        {
+            word: 'yuèlì',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'monthly calendar'
+                }
+            ]
+        },
+        {
+            word: 'yuè lai yuè',
+            definitions: [
+                {
+                    grammer: 'a',
+                    definition: 'more and more'
+                }
+            ]
+        },
+        {
+            word: 'yùnqi',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'luck'
+                }
+            ]
+        },
+        {
+            word: 'zài',
+            definitions: [
+                {
+                    grammer: 'a',
+                    definition: 'again, further, for action deferred'
+                },
+                {
+                    grammer: 'v',
+                    definition: 'be located in/at'
+                },
+                {
+                    grammer: 'cv',
+                    definition: 'in, at'
+                },
+                {
+                    grammer: 'a',
+                    definition: 'engaged in, in the process of'
+                }
+            ]
+        },
+        {
+            word: 'zàijiàn',
+            definitions: [
+                {
+                    grammer: 'ie',
+                    definition: 'goodbye'
+                }
+            ]
+        },
+        {
+            word: 'zǎo',
+            definitions: [
+                {
+                    grammer: 'sv',
+                    definition: 'early'
+                },
+                {
+                    grammer: 'ie',
+                    definition: 'good morning'
+                }
+            ]
+        },
+        {
+            word: 'zǎochen',
+            definitions: [
+                {
+                    grammer: 'tw',
+                    definition: 'morning'
+                }
+            ]
+        },
+        {
+            word: 'zǎofàn',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'breakfast'
+                }
+            ]
+        },
+        {
+            word: 'zǎojiù',
+            definitions: [
+                {
+                    grammer: 'a',
+                    definition: 'long since'
+                }
+            ]
+        },
+        {
+            word: 'zème',
+            definitions: [
+                {
+                    grammer: 'so (this-wise)',
                     definition: ''
                 }
             ]
         },
         {
-            word: '',
+            word: 'zhème',
             definitions: [
                 {
-                    grammer: '',
+                    grammer: 'so (this-wise)',
                     definition: ''
                 }
             ]
         },
         {
-            word: '',
+            word: 'zènme',
             definitions: [
                 {
-                    grammer: '',
+                    grammer: 'qw',
+                    definition: 'how, what'
+                }
+            ]
+        },
+        {
+            word: 'zěnmeyàng',
+            definitions: [
+                {
+                    grammer: 'ie',
+                    definition: `what's it like? how's thing? what do you think? well then`
+                }
+            ]
+        },
+        {
+            word: 'zěnme yì huí shì',
+            definitions: [
+                {
+                    grammer: 'ie',
+                    definition: `what it's all about`
+                }
+            ]
+        },
+        {
+            word: 'zhàn',
+            definitions: [
+                {
+                    grammer: 'v',
+                    definition: 'to stand'
+                },
+                {
+                    grammer: 'n',
+                    definition: 'station, bus stop'
+                }
+            ]
+        },
+        {
+            word: 'zhàntái',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'railway platform'
+                }
+            ]
+        },
+        {
+            word: 'zhāng',
+            definitions: [
+                {
+                    grammer: 'pr',
+                    definition: 'a surname'
+                },
+                {
+                    grammer: 'm',
+                    definition: 'sheet of'
+                }
+            ]
+        },
+        {
+            word: 'zhǎng',
+            definitions: [
+                {
+                    grammer: 'v',
+                    definition: 'grow'
+                }
+            ]
+        },
+        {
+            word: 'zhǎngde',
+            definitions: [
+                {
+                    grammer: '(grow to) be',
                     definition: ''
                 }
             ]
         },
         {
-            word: '',
+            word: 'zháo',
             definitions: [
                 {
-                    grammer: '',
+                    grammer: 'v complement',
+                    definition: 'get to (inicates attainment of objective)'
+                }
+            ]
+        },
+        {
+            word: 'zháojí',
+            definitions: [
+                {
+                    grammer: 'sv',
+                    definition: 'anxious, worried'
+                }
+            ]
+        },
+        {
+            word: 'zhǎo',
+            definitions: [
+                {
+                    grammer: 'v',
+                    definition: 'look for; give as change'
+                }
+            ]
+        },
+        {
+            word: 'zhào',
+            definitions: [
+                {
+                    grammer: 'cv',
+                    definition: 'accoerding to'
+                },
+                {
+                    grammer: 'v',
+                    definition: 'take (photograph)'
+                }
+            ]
+        },
+        {
+            word: 'zhàopiàn',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'photograph'
+                }
+            ]
+        },
+        {
+            word: 'zhàoxiàlai',
+            definitions: [
+                {
+                    grammer: 'v',
+                    definition: 'get on film'
+                }
+            ]
+        },
+        {
+            word: 'zhào xiàng',
+            definitions: [
+                {
+                    grammer: 'vo',
+                    definition: 'take photograph'
+                }
+            ]
+        },
+        {
+            word: 'zhàoxiàngjī',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'camera'
+                }
+            ]
+        },
+        {
+            word: 'zhè',
+            definitions: [
+                {
+                    grammer: 'sp',
+                    definition: 'this'
+                }
+            ]
+        },
+        {
+            word: 'zhe',
+            definitions: [
+                {
+                    grammer: 'v suffix',
+                    definition: 'durative suffix'
+                }
+            ]
+        },
+        {
+            word: 'zhèi',
+            definitions: [
+                {
+                    grammer: 'sp',
+                    definition: 'this'
+                }
+            ]
+        },
+        {
+            word: 'zhēn',
+            definitions: [
+                {
+                    grammer: 'a',
+                    definition: 'truly, really'
+                }
+            ]
+        },
+        {
+            word: 'zhēn de',
+            definitions: [
+                {
+                    grammer: 'sv',
+                    definition: 'be true'
+                }
+            ]
+        },
+        {
+            word: 'zhēnshi',
+            definitions: [
+                {
+                    grammer: 'well really! the idea! bad show',
                     definition: ''
                 }
             ]
         },
         {
-            word: '',
+            word: 'zhèn',
             definitions: [
                 {
-                    grammer: '',
-                    definition: ''
+                    grammer: 'm',
+                    definition: 'spell of'
                 }
             ]
         },
         {
-            word: '',
+            word: 'zhěng',
             definitions: [
                 {
-                    grammer: '',
-                    definition: ''
+                    grammer: ' at/a',
+                    definition: 'full(y), complete(ly)'
                 }
             ]
         },
         {
-            word: '',
+            word: 'zhěngtiān',
             definitions: [
                 {
-                    grammer: '',
-                    definition: ''
+                    grammer: 'tw',
+                    definition: 'all day long'
                 }
             ]
         },
         {
-            word: '',
+            word: 'zhèng',
             definitions: [
                 {
-                    grammer: '',
-                    definition: ''
+                    grammer: 'a',
+                    definition: 'just, just then, just at that point'
                 }
             ]
         },
         {
-            word: '',
+            word: 'zhèngyào',
             definitions: [
                 {
-                    grammer: '',
-                    definition: ''
+                    grammer: 'a',
+                    definition: 'just about to'
                 }
             ]
         },
         {
-            word: '',
+            word: 'zhèngzài',
             definitions: [
                 {
-                    grammer: '',
-                    definition: ''
+                    grammer: 'a',
+                    definition: ' just -- ing'
                 }
             ]
         },
         {
-            word: '',
+            word: 'zhèr',
             definitions: [
                 {
-                    grammer: '',
-                    definition: ''
+                    grammer: 'l/pw',
+                    definition: 'here'
                 }
             ]
         },
         {
-            word: '',
+            word: 'zhī',
             definitions: [
                 {
-                    grammer: '',
-                    definition: ''
+                    grammer: 'm',
+                    definition: 'for birds and some animals (amoung other things)'
+                },
+                {
+                    grammer: 'm',
+                    definition: 'for pens, cigarettes, ect'
                 }
             ]
         },
         {
-            word: '',
+            word: 'zhīdao',
             definitions: [
                 {
-                    grammer: '',
-                    definition: ''
+                    grammer: 'v',
+                    definition: 'know'
                 }
             ]
         },
         {
-            word: '',
+            word: 'zhǐ',
             definitions: [
                 {
-                    grammer: '',
-                    definition: ''
+                    grammer: 'a',
+                    definition: 'only'
+                },
+                {
+                    grammer: 'n',
+                    definition: 'paper'
                 }
             ]
         },
         {
-            word: '',
+            word: 'zhǐhǎo',
             definitions: [
                 {
-                    grammer: '',
-                    definition: ''
+                    grammer: 'a',
+                    definition: 'be forced to, could only'
                 }
             ]
         },
         {
-            word: '',
+            word: 'zhǐyào',
             definitions: [
                 {
-                    grammer: '',
-                    definition: ''
+                    grammer: 'ma',
+                    definition: 'if only needs; as long as'
                 }
             ]
         },
         {
-            word: '',
+            word: 'zhōng',
             definitions: [
                 {
-                    grammer: '',
-                    definition: ''
+                    grammer: 'bf/l',
+                    definition: 'middle, center, short for china'
+                },
+                {
+                    grammer: 'n',
+                    definition: 'clock'
                 }
             ]
         },
         {
-            word: '',
+            word: 'zhōngguó',
             definitions: [
                 {
-                    grammer: '',
-                    definition: ''
+                    grammer: 'pw',
+                    definition: 'china'
                 }
             ]
         },
         {
-            word: '',
+            word: 'zhōngjiān',
             definitions: [
                 {
-                    grammer: '',
-                    definition: ''
+                    grammer: 'l/pw',
+                    definition: 'between, amoung, in the middle'
                 }
             ]
         },
         {
-            word: '',
+            word: 'zhōngnián rén',
             definitions: [
                 {
-                    grammer: '',
-                    definition: ''
+                    grammer: 'n',
+                    definition: 'middle aged person'
                 }
             ]
         },
         {
-            word: '',
+            word: 'zhōngwén',
             definitions: [
                 {
-                    grammer: '',
-                    definition: ''
+                    grammer: 'n',
+                    definition: 'chinese language'
                 }
             ]
         },
         {
-            word: '',
+            word: 'zhōngwǔ',
             definitions: [
                 {
-                    grammer: '',
-                    definition: ''
+                    grammer: 'tw',
+                    definition: 'noon'
                 }
             ]
         },
         {
-            word: '',
+            word: 'zhōngxué',
             definitions: [
                 {
-                    grammer: '',
-                    definition: ''
+                    grammer: 'n',
+                    definition: 'middle school'
                 }
             ]
         },
         {
-            word: '',
+            word: 'zhōngtou',
             definitions: [
                 {
-                    grammer: '',
-                    definition: ''
+                    grammer: 'n',
+                    definition: 'hour'
                 }
             ]
         },
         {
-            word: '',
+            word: 'zhōngyú',
             definitions: [
                 {
-                    grammer: '',
-                    definition: ''
+                    grammer: 'ma',
+                    definition: 'finally, at last'
                 }
             ]
         },
         {
-            word: '',
+            word: 'zhǒng',
             definitions: [
                 {
-                    grammer: '',
-                    definition: ''
+                    grammer: 'm',
+                    definition: 'kind, sort, type'
                 }
             ]
         },
         {
-            word: '',
+            word: 'zhúzi',
             definitions: [
                 {
-                    grammer: '',
-                    definition: ''
+                    grammer: 'n',
+                    definition: 'bamboo'
                 }
             ]
         },
         {
-            word: '',
+            word: 'zhù',
             definitions: [
                 {
-                    grammer: '',
-                    definition: ''
+                    grammer: 'v',
+                    definition: 'live, stay, reside'
                 }
             ]
         },
         {
-            word: '',
+            word: 'zhuān',
             definitions: [
                 {
-                    grammer: '',
-                    definition: ''
+                    grammer: 'sv',
+                    definition: 'concentrated, specialized'
                 }
             ]
         },
         {
-            word: '',
+            word: 'zhuānjiā',
             definitions: [
                 {
-                    grammer: '',
-                    definition: ''
+                    grammer: 'n',
+                    definition: 'expert'
                 }
             ]
         },
         {
-            word: '',
+            word: 'zhuānmén',
             definitions: [
                 {
-                    grammer: '',
-                    definition: ''
+                    grammer: 'sv/a',
+                    definition: 'special(ly)'
                 }
             ]
         },
         {
-            word: '',
+            word: 'zhuāxīn',
             definitions: [
                 {
-                    grammer: '',
-                    definition: ''
+                    grammer: 'sv',
+                    definition: 'single minded'
                 }
             ]
         },
         {
-            word: '',
+            word: 'zhuǎn',
             definitions: [
                 {
-                    grammer: '',
-                    definition: ''
+                    grammer: 'v',
+                    definition: 'turn'
                 }
             ]
         },
-
-    ]
+        {
+            word: 'zhǔn',
+            definitions: [
+                {
+                    grammer: 'v',
+                    definition: 'allow, be allowed'
+                }
+            ]
+        },
+        {
+            word: 'zhuōzi',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'table'
+                }
+            ]
+        },
+        {
+            word: 'zì',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'written character'
+                }
+            ]
+        },
+        {
+            word: 'zìdiǎn',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'dictionary'
+                }
+            ]
+        },
+        {
+            word: 'zìcóng',
+            definitions: [
+                {
+                    grammer: 'cv',
+                    definition: 'ever since'
+                }
+            ]
+        },
+        {
+            word: 'zìjǐ',
+            definitions: [
+                {
+                    grammer: 'pn',
+                    definition: 'self'
+                }
+            ]
+        },
+        {
+            word: 'zìxíngchē',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'bicycle'
+                }
+            ]
+        },
+        {
+            word: 'zǒng',
+            definitions: [
+                {
+                    grammer: 'a',
+                    definition: 'always'
+                }
+            ]
+        },
+        {
+            word: 'zǒngshi',
+            definitions: [
+                {
+                    grammer: 'a',
+                    definition: 'always'
+                }
+            ]
+        },
+        {
+            word: 'zǒu',
+            definitions: [
+                {
+                    grammer: 'v',
+                    definition: 'walk, leave, go'
+                }
+            ]
+        },
+        {
+            word: 'zǒu lù',
+            definitions: [
+                {
+                    grammer: 'v-o',
+                    definition: 'to walk'
+                }
+            ]
+        },
+        {
+            word: 'zuǐ',
+            definitions: [
+                {
+                    grammer: 'n',
+                    definition: 'mouth'
+                }
+            ]
+        },
+        {
+            word: 'zuì',
+            definitions: [
+                {
+                    grammer: 'a',
+                    definition: 'most, exceedingly'
+                }
+            ]
+        },
+        {
+            word: 'zuìhòu',
+            definitions: [
+                {
+                    grammer: 'ma',
+                    definition: 'finally, eventually'
+                }
+            ]
+        },
+        {
+            word: 'zuìjìn',
+            definitions: [
+                {
+                    grammer: 'tw',
+                    definition: 'recently, lately   '
+                }
+            ]
+        },
+        {
+            word: 'zuótiān',
+            definitions: [
+                {
+                    grammer: 'tw',
+                    definition: 'yesterday'
+                }
+            ]
+        },
+        {
+            word: 'zuǒ',
+            definitions: [
+                {
+                    grammer: 'l',
+                    definition: 'left, to/on the left'
+                }
+            ]
+        },
+        {
+            word: 'zuò',
+            definitions: [
+                {
+                    grammer: 'v',
+                    definition: 'do, make'
+                },
+                {
+                    grammer: 'v',
+                    definition: 'sit'
+                },
+                {
+                    grammer: 'cv',
+                    definition: 'travel by'
+                },
+                {
+                    grammer: 'clv',
+                    definition: 'be, act as, serve as'
+                },
+                {
+                    grammer: 'm',
+                    definition: 'for buildings, bridges, ect'
+                }
+            ]
+        },
+        {
+            word: 'zuò shì',
+            definitions: [
+                {
+                    grammer: 'v-o',
+                    definition: 'work'
+                }
+            ]
+        }
+    ];
 
     // need to add some words cong ... kaishi ????
     //cong ... qi ???
@@ -6253,24 +9576,32 @@ const zidian = (function () {
             const toneless = removeTones(text);
             const word = toneless.toLowerCase();
             const map = getUpperCaseMap(text);
-            return zidian.filter(x => {
-                const toneless = removeTones(x.word);
-                if (!toneless.startsWith(word)) return false;
-                x.word = restoreCase(x.word, map);
-                return true;
-            });
+            const list = zidian.reduce((result, x) => {
+                const tonelessWord = removeTones(x.word);
+                if (!tonelessWord.startsWith(word)) return result;
+                const res = Object.assign({}, x);
+                res.word = restoreCase(x.word, map);
+                result.push(res);
+                return result;
+            }, []);
+            list.sort();
+            return list;
         },
-        // startsWith(text) {
-        //     if (text === '' || text === null) return;
-        //     const toneless = removeTones(text);
-        //     const word = toneless.toLowerCase();
-        //     const map = getUpperCaseMap(text);
-        //     return dict.filter(x => {
-        //         const toneless = removeTones(x);
-        //         if (toneless.startsWith(word)) return true;
-        //         return false;
-        //     }).map(x => restoreCase(x, map));
-        // },
+        startsWith2(text) {
+            if (text === '' || text === null) return;
+            // const toneless = removeTones(text);
+            const word = text.toLowerCase();
+            const map = getUpperCaseMap(text);
+            const list = zidian.reduce((result, x) => {
+                if (!x.word.startsWith(word)) return result;
+                const res = Object.assign({}, x);
+                res.word = restoreCase(x.word, map);
+                result.push(res);
+                return result;
+            }, []);
+            list.sort();
+            return list;
+        },
         addTone(char, tone) {
             const toneTest = parseInt(tone);
             if (toneTest === NaN) return false;
@@ -6284,10 +9615,25 @@ const zidian = (function () {
             }
             return (toneless + tones[tone - 1]).normalize('NFC');
         },
-        removeTones
+        containsTones(text) {
+            const test = text.normalize('NFD').match(/[\u0300-\u036f]/g);
+            if (test === null) return false;
+            return true;
+        },
+        removeTones,
+        zidian() { return zidian },
+        sortLengthFirst(a, b) {
+            return a.word.length - b.word.length || a.word.localeCompare(b)
+        },
+        findByDef(text) {
+            const res = zidian.filter(x => {
+                const defs = x.definitions.find(d => d.definition.includes(text));
+                if (defs) return true;
+                return false;
+            });
+            return res;
+        }
     };
 
     return api;
 })();
-
-// TODO: seperate words in to alphabetic characters
