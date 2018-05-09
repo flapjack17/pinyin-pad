@@ -1,2 +1,25 @@
-# pinyin-pad
-A rich text editor made with typing pinyin easier in mind.
+###Pinyin-Pad
+
+I am taking a conversational Mandarin class in which we type our homework in pinyin. Microsoft's keyboards support character output with toneless pinyin input, and does not have an easy way to add tones to characters.
+
+I have found some online editors that will allow you to type out text where a character that has a tone would be followed by it's represented number, "nǐ hǎo ma" would be written " ni3 ha3o ma", then convert the text in to pinyin. This works, but for me at least reading it and making sure I had the right tone marks using this method was a little cumbersome.
+
+I was able to find another editor that would add the tone marks to the previous character from the ceret postion without having to manually convertor it through processing. It used combining characters, which works fine, however I often found myself adding the wrong tone. I would then press the correct tone letter to replace it, however it would just append the number in to the text. To fix the issue I would have to press backspace twice, to remove the number and the tone, not that big of a problem. However I got in the habbit of doing this so much, that when I remebered that pressing a number won't fix the issue, instead of pressing backspace once to remove the tone and add a new one, I had the habbit of pressing it twice, so i would remove the tone and character.
+
+So I decided to create my own editor that worked the way my mind did. I spent a lot of time experimenting with different ways of creating the editor. I first started with a textarea input which was working fine, until I wanted to add rich text support. I then tried the content editable route, and had the idea to have multiple cursor support like visual studio code, so started to recreate the same input method as vs code, but then realized I wouldn't really need it, so went back to content editable. Then I came up with another idea to add.
+
+I'm so used to using IDE's with suggested input results, like visual studio codes's intellisense, I thought it would be fun to add and would help increase the speed at which I was able to get my homework done. This presented a new problem, tacking the ceret postion so I could display the suggestions near were the user was typing. I found a few ways to do this, the most common was to create a clone of the line/block of text and split each character in to it's own span, and use it's bounding box to calculate the cerets position. This was wasy enough to do, but then became a little more complex when I started adding text with different formatting. I was able to solve the issue by getting the characters formating and applying it to the cloned span. However I found a minor annoyance. Tracking the ceret was fine, maybe off by a few pixels, until I held down the **l** key. When there was a line of text that had multiple lower case L characters the ceret tracking would be thrown off. This is something that wouldn't normally happen, but it bothered me.
+
+I then tried another solution to use the Canvas measureText method, which gave better results, but was still combersome to deal with, as I had to get each characters formating and apply it to the canvas, measure and get the total. This would produce more accurate results, maybe off by a pixel, so I decided that it was good enough. Until I got to a point I hadn't thought of before, or came accross yet, wrapped text. I was able to calculate the position of the ceret by getting the lines width, and using the text height, but what if there was a chacter that had larger font in this block of text?
+
+I then came across another, easier way using the Range.getBoundingClientRect method. MDN's website states that this is experimental, but it looks like all major browsers except safari support it. As I was working on this mainly for my use, I wasn't to worried about it, plus Mac OS supports pinyin input. This worked very well, and made things a lot easier.
+
+After creating a dictionary using the vocab from our book and doing some other work to get the current word at the cerets postion, I was able to display a list of possible words and replace the text with the seleted result. I added all the vocab from the book, but should of have only focused on the chapters we had covered since it took a long time to get all the vocab in. I was also some what confused on the spacing of words, I have seen some words that are created from multiple words without spacing, with spacing based on syllables, and seperated by syllables with a dash. The book I was using would have that same word sometimes with the dash, or together, my techer said th dash was to just help break out the syllables for pronunciation. So I will need to go back and update the dictionary to fix this.
+
+
+###Things i would still like to do.
+- Try to better predict words being typed.
+- Better sorting of the predicted results.
+- Add a feature to allow the user to search the dictionaries english definitions and return a list of words for the user to choose from.
+- Add a UI for changing text formating.
+- Add saving documents.
