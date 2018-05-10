@@ -29,18 +29,18 @@ const pad = (function () {
         getPreviousCharacter(offset = 0) {
             const selection = getSelection();
             const { focusNode, focusOffset } = selection;
-            const char = focusNode.textContent.slice(focusOffset - 1 + offset, focusOffset + offset );
+            const char = focusNode.textContent.slice(focusOffset - 1 + offset, focusOffset + offset);
             return char;
         },
         getNextCharacter(offset = 0) {
             const selection = getSelection();
             const { focusNode, focusOffset } = selection;
-            const char = focusNode.textContent.slice(focusOffset + offset, focusOffset + 1 + offset );
+            const char = focusNode.textContent.slice(focusOffset + offset, focusOffset + 1 + offset);
             return char;
         },
         getCurrentWord() {
             const previousChar = api.getPreviousCharacter().normalize('NFD').replace(/[\u0300-\u036f]/g, "");
-            if(!!!previousChar.match(/[a-za-zÀ-ÿ]/i)) return false;
+            if (!!!previousChar.match(/[a-za-zÀ-ÿ]/i)) return false;
             const selection = getSelection();
             const range = selection.getRangeAt(0);
             selection.modify("move", "backward", "word");

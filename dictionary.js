@@ -5228,6 +5228,10 @@ const zidian = (function () {
                 {
                     grammer: 'ie',
                     definition: 'how do you do? how are you?'
+                },
+                {
+                    grammer: 'ie',
+                    definition: 'Hello, hi'
                 }
             ]
         },
@@ -7398,7 +7402,7 @@ const zidian = (function () {
             definitions: [
                 {
                     grammer: 'pn',
-                    definition: 'we; uss'
+                    definition: 'we; us'
                 }
             ]
         },

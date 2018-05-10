@@ -126,3 +126,7 @@ body{
 ::-webkit-scrollbar-thumb:hover {
     background: #405c9e;
 }
+
+.search-by-def{
+    caret-color: #ff0000;
+}

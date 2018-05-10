@@ -5,6 +5,8 @@ const sense = new Sense(cotnainer);
 document.addEventListener('input', inputHandler);
 document.addEventListener('keydown', keyDownHandler);
 doc.focus();
+
+let searchByDeff = false;
 // 'lu' words with umlaut
 // need to add support for umlaut characters
 function keyDownHandler(event) {
@@ -73,9 +75,16 @@ function keyDownHandler(event) {
             sense.hide();
         }
     }
-    else if(key === ' ' && ctrlKey){
-        console.log('test');
-        predictText()
+    else if (key === ' ' && ctrlKey) {
+        if (searchByDeff) {
+            searchByDeff = false;
+            document.body.classList.remove('search-by-def');
+        }
+        else {
+            searchByDeff = true;
+            document.body.classList.add('search-by-def');
+        }
+        console.log(`Search by deff: ${searchByDeff}`);
     }
 }
 
@@ -125,7 +134,9 @@ function predictText() {
         return;
     }
     currentWord = currentWord.trim();
-    const suggestions = zidian.startsWith(currentWord);
+    let suggestions;
+    if (searchByDeff) suggestions = zidian.findByDef(currentWord);
+    else suggestions = zidian.startsWith(currentWord);
     if (suggestions.length < 1) {
         sense.clearSuggestions();
         sense.hide();
